@@ -1,0 +1,222 @@
+[
+  {
+    "id": "01",
+    "title": "慢慢敲門",
+    "use": "首頁與開始使用",
+    "prompt": "Create one standalone square 1:1 web illustration, no text, matching the attached approved brand image. The reference provides STYLE and CHARACTER LANGUAGE only, do NOT reproduce its headline or poster layout. Characters' bodies ARE flat irregular angular geometric shapes, cute tiny violet dot eyes and small gentle smiles, short simple violet stick arms and feet. No separate human head or torso, no hair, no clothing except tiny optional bags. Slight softened cut-paper corners, not rounded blobs. Palette violet #6544c4, lime #dff685, dusty pink #f2b5d2, lavender and warm ivory #faf5e8. Handmade cut-paper silhouettes, restrained visible ink grain, sparse halftone, slightly imperfect edges. Flat evenly lit artwork, absolutely no cast shadows, no gradients, no glossy rendering, no ominous deep doorway. Warm ivory paper background filling the entire square. Sparse small paper flower/leaf/confetti accents; clean central composition with 12% safe margins and ample breathing room. Limit props to the specified scene. Express gentle companionship, never clinical efficacy or cure. NO LETTERS, NO WORDS, NO NUMERALS, NO WATERMARKS, NO UI screenshots. Scene: A lime trapezoid character with tiny arms gently knocks on a pink open door, accompanied by a smaller lavender quadrilateral. Warm welcome, little paper flower.",
+    "file": "assets/scenes/01-慢慢敲門.png",
+    "size": [
+      1254,
+      1254
+    ]
+  },
+  {
+    "id": "02",
+    "title": "先坐一下",
+    "use": "等待與暫停",
+    "prompt": "Create one standalone square 1:1 web illustration, no text, matching the attached approved brand image. The reference provides STYLE and CHARACTER LANGUAGE only, do NOT reproduce its headline or poster layout. Characters' bodies ARE flat irregular angular geometric shapes, cute tiny violet dot eyes and small gentle smiles, short simple violet stick arms and feet. No separate human head or torso, no hair, no clothing except tiny optional bags. Slight softened cut-paper corners, not rounded blobs. Palette violet #6544c4, lime #dff685, dusty pink #f2b5d2, lavender and warm ivory #faf5e8. Handmade cut-paper silhouettes, restrained visible ink grain, sparse halftone, slightly imperfect edges. Flat evenly lit artwork, absolutely no cast shadows, no gradients, no glossy rendering, no ominous deep doorway. Warm ivory paper background filling the entire square. Sparse small paper flower/leaf/confetti accents; clean central composition with 12% safe margins and ample breathing room. Limit props to the specified scene. Express gentle companionship, never clinical efficacy or cure. NO LETTERS, NO WORDS, NO NUMERALS, NO WATERMARKS, NO UI screenshots. Scene: A peach angular pentagon character sits comfortably on a low violet rectangular bench beside a lime square companion, quiet pauses, small potted angular leaves.",
+    "file": "assets/scenes/02-先坐一下.png",
+    "size": [
+      1254,
+      1254
+    ]
+  },
+  {
+    "id": "03",
+    "title": "整理想說的話",
+    "use": "整理困擾",
+    "prompt": "Create one standalone square 1:1 web illustration, no text, matching the attached approved brand image. The reference provides STYLE and CHARACTER LANGUAGE only, do NOT reproduce its headline or poster layout. Characters' bodies ARE flat irregular angular geometric shapes, cute tiny violet dot eyes and small gentle smiles, short simple violet stick arms and feet. No separate human head or torso, no hair, no clothing except tiny optional bags. Slight softened cut-paper corners, not rounded blobs. Palette violet #6544c4, lime #dff685, dusty pink #f2b5d2, lavender and warm ivory #faf5e8. Handmade cut-paper silhouettes, restrained visible ink grain, sparse halftone, slightly imperfect edges. Flat evenly lit artwork, absolutely no cast shadows, no gradients, no glossy rendering, no ominous deep doorway. Warm ivory paper background filling the entire square. Sparse small paper flower/leaf/confetti accents; clean central composition with 12% safe margins and ample breathing room. Limit props to the specified scene. Express gentle companionship, never clinical efficacy or cure. NO LETTERS, NO WORDS, NO NUMERALS, NO WATERMARKS, NO UI screenshots. Scene: A lavender parallelogram character arranges three blank pink and lime paper cards on an ivory desk, lime triangle friend nearby, no writing on cards.",
+    "file": "assets/scenes/03-整理想說的話.png",
+    "size": [
+      1254,
+      1254
+    ]
+  },
+  {
+    "id": "04",
+    "title": "不知道怎麼開始",
+    "use": "空白狀態",
+    "prompt": "Create one standalone square 1:1 web illustration, no text, matching the attached approved brand image. The reference provides STYLE and CHARACTER LANGUAGE only, do NOT reproduce its headline or poster layout. Characters' bodies ARE flat irregular angular geometric shapes, cute tiny violet dot eyes and small gentle smiles, short simple violet stick arms and feet. No separate human head or torso, no hair, no clothing except tiny optional bags. Slight softened cut-paper corners, not rounded blobs. Palette violet #6544c4, lime #dff685, dusty pink #f2b5d2, lavender and warm ivory #faf5e8. Handmade cut-paper silhouettes, restrained visible ink grain, sparse halftone, slightly imperfect edges. Flat evenly lit artwork, absolutely no cast shadows, no gradients, no glossy rendering, no ominous deep doorway. Warm ivory paper background filling the entire square. Sparse small paper flower/leaf/confetti accents; clean central composition with 12% safe margins and ample breathing room. Limit props to the specified scene. Express gentle companionship, never clinical efficacy or cure. NO LETTERS, NO WORDS, NO NUMERALS, NO WATERMARKS, NO UI screenshots. Scene: A lime uneven hexagon character looks thoughtfully at an empty speech bubble, a pink trapezoid companion holds a small blank card inviting a beginning.",
+    "file": "assets/scenes/04-不知道怎麼開始.png",
+    "size": [
+      1254,
+      1254
+    ]
+  },
+  {
+    "id": "05",
+    "title": "把感受分開看看",
+    "use": "辨認感受",
+    "prompt": "Create one standalone square 1:1 web illustration, no text, matching the attached approved brand image. The reference provides STYLE and CHARACTER LANGUAGE only, do NOT reproduce its headline or poster layout. Characters' bodies ARE flat irregular angular geometric shapes, cute tiny violet dot eyes and small gentle smiles, short simple violet stick arms and feet. No separate human head or torso, no hair, no clothing except tiny optional bags. Slight softened cut-paper corners, not rounded blobs. Palette violet #6544c4, lime #dff685, dusty pink #f2b5d2, lavender and warm ivory #faf5e8. Handmade cut-paper silhouettes, restrained visible ink grain, sparse halftone, slightly imperfect edges. Flat evenly lit artwork, absolutely no cast shadows, no gradients, no glossy rendering, no ominous deep doorway. Warm ivory paper background filling the entire square. Sparse small paper flower/leaf/confetti accents; clean central composition with 12% safe margins and ample breathing room. Limit props to the specified scene. Express gentle companionship, never clinical efficacy or cure. NO LETTERS, NO WORDS, NO NUMERALS, NO WATERMARKS, NO UI screenshots. Scene: A pink diamond-shaped character gently sorts abstract paper shapes into three shallow open boxes, lavender triangle companion observes, no labels.",
+    "file": "assets/scenes/05-把感受分開看看.png",
+    "size": [
+      1254,
+      1254
+    ]
+  },
+  {
+    "id": "06",
+    "title": "留白也可以",
+    "use": "跳過題目",
+    "prompt": "Create one standalone square 1:1 web illustration, no text, matching the attached approved brand image. The reference provides STYLE and CHARACTER LANGUAGE only, do NOT reproduce its headline or poster layout. Characters' bodies ARE flat irregular angular geometric shapes, cute tiny violet dot eyes and small gentle smiles, short simple violet stick arms and feet. No separate human head or torso, no hair, no clothing except tiny optional bags. Slight softened cut-paper corners, not rounded blobs. Palette violet #6544c4, lime #dff685, dusty pink #f2b5d2, lavender and warm ivory #faf5e8. Handmade cut-paper silhouettes, restrained visible ink grain, sparse halftone, slightly imperfect edges. Flat evenly lit artwork, absolutely no cast shadows, no gradients, no glossy rendering, no ominous deep doorway. Warm ivory paper background filling the entire square. Sparse small paper flower/leaf/confetti accents; clean central composition with 12% safe margins and ample breathing room. Limit props to the specified scene. Express gentle companionship, never clinical efficacy or cure. NO LETTERS, NO WORDS, NO NUMERALS, NO WATERMARKS, NO UI screenshots. Scene: A lavender square character holds a large mostly blank ivory sheet with one tiny lime paper scrap, a pink triangle friend smiles, calm spacious scene.",
+    "file": "assets/scenes/06-留白也可以.png",
+    "size": [
+      1254,
+      1254
+    ]
+  },
+  {
+    "id": "07",
+    "title": "選擇分享的範圍",
+    "use": "分享界線",
+    "prompt": "Create one standalone square 1:1 web illustration, no text, matching the attached approved brand image. The reference provides STYLE and CHARACTER LANGUAGE only, do NOT reproduce its headline or poster layout. Characters' bodies ARE flat irregular angular geometric shapes, cute tiny violet dot eyes and small gentle smiles, short simple violet stick arms and feet. No separate human head or torso, no hair, no clothing except tiny optional bags. Slight softened cut-paper corners, not rounded blobs. Palette violet #6544c4, lime #dff685, dusty pink #f2b5d2, lavender and warm ivory #faf5e8. Handmade cut-paper silhouettes, restrained visible ink grain, sparse halftone, slightly imperfect edges. Flat evenly lit artwork, absolutely no cast shadows, no gradients, no glossy rendering, no ominous deep doorway. Warm ivory paper background filling the entire square. Sparse small paper flower/leaf/confetti accents; clean central composition with 12% safe margins and ample breathing room. Limit props to the specified scene. Express gentle companionship, never clinical efficacy or cure. NO LETTERS, NO WORDS, NO NUMERALS, NO WATERMARKS, NO UI screenshots. Scene: A lime pentagon character places one pink blank card in an open sharing tray and keeps another close, a lavender trapezoid respectfully waits at a distance.",
+    "file": "assets/scenes/07-選擇分享的範圍.png",
+    "size": [
+      1254,
+      1254
+    ]
+  },
+  {
+    "id": "08",
+    "title": "找到身邊的支持",
+    "use": "支持系統",
+    "prompt": "Create one standalone square 1:1 web illustration, no text, matching the attached approved brand image. The reference provides STYLE and CHARACTER LANGUAGE only, do NOT reproduce its headline or poster layout. Characters' bodies ARE flat irregular angular geometric shapes, cute tiny violet dot eyes and small gentle smiles, short simple violet stick arms and feet. No separate human head or torso, no hair, no clothing except tiny optional bags. Slight softened cut-paper corners, not rounded blobs. Palette violet #6544c4, lime #dff685, dusty pink #f2b5d2, lavender and warm ivory #faf5e8. Handmade cut-paper silhouettes, restrained visible ink grain, sparse halftone, slightly imperfect edges. Flat evenly lit artwork, absolutely no cast shadows, no gradients, no glossy rendering, no ominous deep doorway. Warm ivory paper background filling the entire square. Sparse small paper flower/leaf/confetti accents; clean central composition with 12% safe margins and ample breathing room. Limit props to the specified scene. Express gentle companionship, never clinical efficacy or cure. NO LETTERS, NO WORDS, NO NUMERALS, NO WATERMARKS, NO UI screenshots. Scene: Three different geometric characters, lime triangle, pink irregular square, lavender hexagon, sit together in a loose semicircle holding blank speech bubbles.",
+    "file": "assets/scenes/08-找到身邊的支持.png",
+    "size": [
+      1254,
+      1254
+    ]
+  },
+  {
+    "id": "09",
+    "title": "查查看補助",
+    "use": "補助介紹",
+    "prompt": "Create one standalone square 1:1 web illustration, no text, matching the attached approved brand image. The reference provides STYLE and CHARACTER LANGUAGE only, do NOT reproduce its headline or poster layout. Characters' bodies ARE flat irregular angular geometric shapes, cute tiny violet dot eyes and small gentle smiles, short simple violet stick arms and feet. No separate human head or torso, no hair, no clothing except tiny optional bags. Slight softened cut-paper corners, not rounded blobs. Palette violet #6544c4, lime #dff685, dusty pink #f2b5d2, lavender and warm ivory #faf5e8. Handmade cut-paper silhouettes, restrained visible ink grain, sparse halftone, slightly imperfect edges. Flat evenly lit artwork, absolutely no cast shadows, no gradients, no glossy rendering, no ominous deep doorway. Warm ivory paper background filling the entire square. Sparse small paper flower/leaf/confetti accents; clean central composition with 12% safe margins and ample breathing room. Limit props to the specified scene. Express gentle companionship, never clinical efficacy or cure. NO LETTERS, NO WORDS, NO NUMERALS, NO WATERMARKS, NO UI screenshots. Scene: A lavender trapezoid character holds a magnifying glass over a blank ivory information card with three simple lime circles, pink square companion beside them. No currency or text.",
+    "file": "assets/scenes/09-查查看補助.png",
+    "size": [
+      1254,
+      1254
+    ]
+  },
+  {
+    "id": "10",
+    "title": "選適合自己的地方",
+    "use": "機構推薦",
+    "prompt": "Create one standalone square 1:1 web illustration, no text, matching the attached approved brand image. The reference provides STYLE and CHARACTER LANGUAGE only, do NOT reproduce its headline or poster layout. Characters' bodies ARE flat irregular angular geometric shapes, cute tiny violet dot eyes and small gentle smiles, short simple violet stick arms and feet. No separate human head or torso, no hair, no clothing except tiny optional bags. Slight softened cut-paper corners, not rounded blobs. Palette violet #6544c4, lime #dff685, dusty pink #f2b5d2, lavender and warm ivory #faf5e8. Handmade cut-paper silhouettes, restrained visible ink grain, sparse halftone, slightly imperfect edges. Flat evenly lit artwork, absolutely no cast shadows, no gradients, no glossy rendering, no ominous deep doorway. Warm ivory paper background filling the entire square. Sparse small paper flower/leaf/confetti accents; clean central composition with 12% safe margins and ample breathing room. Limit props to the specified scene. Express gentle companionship, never clinical efficacy or cure. NO LETTERS, NO WORDS, NO NUMERALS, NO WATERMARKS, NO UI screenshots. Scene: A lime asymmetric quadrilateral character considers two small pink and lavender doorway models on a table, a lavender triangle companion points gently.",
+    "file": "assets/scenes/10-選適合自己的地方.png",
+    "size": [
+      1254,
+      1254
+    ]
+  },
+  {
+    "id": "11",
+    "title": "看懂費用",
+    "use": "費用說明",
+    "prompt": "Create one standalone square 1:1 web illustration, no text, matching the attached approved brand image. The reference provides STYLE and CHARACTER LANGUAGE only, do NOT reproduce its headline or poster layout. Characters' bodies ARE flat irregular angular geometric shapes, cute tiny violet dot eyes and small gentle smiles, short simple violet stick arms and feet. No separate human head or torso, no hair, no clothing except tiny optional bags. Slight softened cut-paper corners, not rounded blobs. Palette violet #6544c4, lime #dff685, dusty pink #f2b5d2, lavender and warm ivory #faf5e8. Handmade cut-paper silhouettes, restrained visible ink grain, sparse halftone, slightly imperfect edges. Flat evenly lit artwork, absolutely no cast shadows, no gradients, no glossy rendering, no ominous deep doorway. Warm ivory paper background filling the entire square. Sparse small paper flower/leaf/confetti accents; clean central composition with 12% safe margins and ample breathing room. Limit props to the specified scene. Express gentle companionship, never clinical efficacy or cure. NO LETTERS, NO WORDS, NO NUMERALS, NO WATERMARKS, NO UI screenshots. Scene: A pink pentagon character sorts a few plain abstract round tokens beside two blank paper cards, lime parallelogram companion looks on, no numbers or currency symbols.",
+    "file": "assets/scenes/11-看懂費用.png",
+    "size": [
+      1254,
+      1254
+    ]
+  },
+  {
+    "id": "12",
+    "title": "確認名額",
+    "use": "名額與時間",
+    "prompt": "Create one standalone square 1:1 web illustration, no text, matching the attached approved brand image. The reference provides STYLE and CHARACTER LANGUAGE only, do NOT reproduce its headline or poster layout. Characters' bodies ARE flat irregular angular geometric shapes, cute tiny violet dot eyes and small gentle smiles, short simple violet stick arms and feet. No separate human head or torso, no hair, no clothing except tiny optional bags. Slight softened cut-paper corners, not rounded blobs. Palette violet #6544c4, lime #dff685, dusty pink #f2b5d2, lavender and warm ivory #faf5e8. Handmade cut-paper silhouettes, restrained visible ink grain, sparse halftone, slightly imperfect edges. Flat evenly lit artwork, absolutely no cast shadows, no gradients, no glossy rendering, no ominous deep doorway. Warm ivory paper background filling the entire square. Sparse small paper flower/leaf/confetti accents; clean central composition with 12% safe margins and ample breathing room. Limit props to the specified scene. Express gentle companionship, never clinical efficacy or cure. NO LETTERS, NO WORDS, NO NUMERALS, NO WATERMARKS, NO UI screenshots. Scene: A lavender triangle character places a lime dot on a simple blank calendar grid, peach trapezoid companion holds an empty ticket, no dates or numerals.",
+    "file": "assets/scenes/12-確認名額.png",
+    "size": [
+      1254,
+      1254
+    ]
+  },
+  {
+    "id": "13",
+    "title": "練習預約電話",
+    "use": "聯絡預約",
+    "prompt": "Create one standalone square 1:1 web illustration, no text, matching the attached approved brand image. The reference provides STYLE and CHARACTER LANGUAGE only, do NOT reproduce its headline or poster layout. Characters' bodies ARE flat irregular angular geometric shapes, cute tiny violet dot eyes and small gentle smiles, short simple violet stick arms and feet. No separate human head or torso, no hair, no clothing except tiny optional bags. Slight softened cut-paper corners, not rounded blobs. Palette violet #6544c4, lime #dff685, dusty pink #f2b5d2, lavender and warm ivory #faf5e8. Handmade cut-paper silhouettes, restrained visible ink grain, sparse halftone, slightly imperfect edges. Flat evenly lit artwork, absolutely no cast shadows, no gradients, no glossy rendering, no ominous deep doorway. Warm ivory paper background filling the entire square. Sparse small paper flower/leaf/confetti accents; clean central composition with 12% safe margins and ample breathing room. Limit props to the specified scene. Express gentle companionship, never clinical efficacy or cure. NO LETTERS, NO WORDS, NO NUMERALS, NO WATERMARKS, NO UI screenshots. Scene: A lime hexagon character holds a simple pink telephone receiver while looking at a blank note card on a small table, small lavender square companion nearby.",
+    "file": "assets/scenes/13-練習預約電話.png",
+    "size": [
+      1254,
+      1254
+    ]
+  },
+  {
+    "id": "14",
+    "title": "準備證件",
+    "use": "行前清單",
+    "prompt": "Create one standalone square 1:1 web illustration, no text, matching the attached approved brand image. The reference provides STYLE and CHARACTER LANGUAGE only, do NOT reproduce its headline or poster layout. Characters' bodies ARE flat irregular angular geometric shapes, cute tiny violet dot eyes and small gentle smiles, short simple violet stick arms and feet. No separate human head or torso, no hair, no clothing except tiny optional bags. Slight softened cut-paper corners, not rounded blobs. Palette violet #6544c4, lime #dff685, dusty pink #f2b5d2, lavender and warm ivory #faf5e8. Handmade cut-paper silhouettes, restrained visible ink grain, sparse halftone, slightly imperfect edges. Flat evenly lit artwork, absolutely no cast shadows, no gradients, no glossy rendering, no ominous deep doorway. Warm ivory paper background filling the entire square. Sparse small paper flower/leaf/confetti accents; clean central composition with 12% safe margins and ample breathing room. Limit props to the specified scene. Express gentle companionship, never clinical efficacy or cure. NO LETTERS, NO WORDS, NO NUMERALS, NO WATERMARKS, NO UI screenshots. Scene: A peach trapezoid character gently puts an abstract blank ID card with only a simple silhouette and a blank notebook into an open lavender folder, lime diamond companion.",
+    "file": "assets/scenes/14-準備證件.png",
+    "size": [
+      1254,
+      1254
+    ]
+  },
+  {
+    "id": "15",
+    "title": "帶著準備單出門",
+    "use": "準備完成",
+    "prompt": "Create one standalone square 1:1 web illustration, no text, matching the attached approved brand image. The reference provides STYLE and CHARACTER LANGUAGE only, do NOT reproduce its headline or poster layout. Characters' bodies ARE flat irregular angular geometric shapes, cute tiny violet dot eyes and small gentle smiles, short simple violet stick arms and feet. No separate human head or torso, no hair, no clothing except tiny optional bags. Slight softened cut-paper corners, not rounded blobs. Palette violet #6544c4, lime #dff685, dusty pink #f2b5d2, lavender and warm ivory #faf5e8. Handmade cut-paper silhouettes, restrained visible ink grain, sparse halftone, slightly imperfect edges. Flat evenly lit artwork, absolutely no cast shadows, no gradients, no glossy rendering, no ominous deep doorway. Warm ivory paper background filling the entire square. Sparse small paper flower/leaf/confetti accents; clean central composition with 12% safe margins and ample breathing room. Limit props to the specified scene. Express gentle companionship, never clinical efficacy or cure. NO LETTERS, NO WORDS, NO NUMERALS, NO WATERMARKS, NO UI screenshots. Scene: A lavender pentagon character carries an ivory blank folded sheet and small pink bag toward a simple lime doorway, pink quadrilateral companion waves.",
+    "file": "assets/scenes/15-帶著準備單出門.png",
+    "size": [
+      1254,
+      1254
+    ]
+  },
+  {
+    "id": "16",
+    "title": "一起看路線",
+    "use": "地圖導航",
+    "prompt": "Create one standalone square 1:1 web illustration, no text, matching the attached approved brand image. The reference provides STYLE and CHARACTER LANGUAGE only, do NOT reproduce its headline or poster layout. Characters' bodies ARE flat irregular angular geometric shapes, cute tiny violet dot eyes and small gentle smiles, short simple violet stick arms and feet. No separate human head or torso, no hair, no clothing except tiny optional bags. Slight softened cut-paper corners, not rounded blobs. Palette violet #6544c4, lime #dff685, dusty pink #f2b5d2, lavender and warm ivory #faf5e8. Handmade cut-paper silhouettes, restrained visible ink grain, sparse halftone, slightly imperfect edges. Flat evenly lit artwork, absolutely no cast shadows, no gradients, no glossy rendering, no ominous deep doorway. Warm ivory paper background filling the entire square. Sparse small paper flower/leaf/confetti accents; clean central composition with 12% safe margins and ample breathing room. Limit props to the specified scene. Express gentle companionship, never clinical efficacy or cure. NO LETTERS, NO WORDS, NO NUMERALS, NO WATERMARKS, NO UI screenshots. Scene: A lime triangle and lavender irregular square stand side by side looking at a paper map with a single winding pink path and simple dot, no real street names, no pins with labels.",
+    "file": "assets/scenes/16-一起看路線.png",
+    "size": [
+      1254,
+      1254
+    ]
+  },
+  {
+    "id": "17",
+    "title": "等候時喘口氣",
+    "use": "等候空間",
+    "prompt": "Create one standalone square 1:1 web illustration, no text, matching the attached approved brand image. The reference provides STYLE and CHARACTER LANGUAGE only, do NOT reproduce its headline or poster layout. Characters' bodies ARE flat irregular angular geometric shapes, cute tiny violet dot eyes and small gentle smiles, short simple violet stick arms and feet. No separate human head or torso, no hair, no clothing except tiny optional bags. Slight softened cut-paper corners, not rounded blobs. Palette violet #6544c4, lime #dff685, dusty pink #f2b5d2, lavender and warm ivory #faf5e8. Handmade cut-paper silhouettes, restrained visible ink grain, sparse halftone, slightly imperfect edges. Flat evenly lit artwork, absolutely no cast shadows, no gradients, no glossy rendering, no ominous deep doorway. Warm ivory paper background filling the entire square. Sparse small paper flower/leaf/confetti accents; clean central composition with 12% safe margins and ample breathing room. Limit props to the specified scene. Express gentle companionship, never clinical efficacy or cure. NO LETTERS, NO WORDS, NO NUMERALS, NO WATERMARKS, NO UI screenshots. Scene: A pink asymmetric hexagon character sits on a lavender rectangular chair beside a small paper plant, shoulders and little arms relaxed, lime trapezoid quietly sits nearby.",
+    "file": "assets/scenes/17-等候時喘口氣.png",
+    "size": [
+      1254,
+      1254
+    ]
+  },
+  {
+    "id": "18",
+    "title": "先說一句就好",
+    "use": "第一次會談",
+    "prompt": "Create one standalone square 1:1 web illustration, no text, matching the attached approved brand image. The reference provides STYLE and CHARACTER LANGUAGE only, do NOT reproduce its headline or poster layout. Characters' bodies ARE flat irregular angular geometric shapes, cute tiny violet dot eyes and small gentle smiles, short simple violet stick arms and feet. No separate human head or torso, no hair, no clothing except tiny optional bags. Slight softened cut-paper corners, not rounded blobs. Palette violet #6544c4, lime #dff685, dusty pink #f2b5d2, lavender and warm ivory #faf5e8. Handmade cut-paper silhouettes, restrained visible ink grain, sparse halftone, slightly imperfect edges. Flat evenly lit artwork, absolutely no cast shadows, no gradients, no glossy rendering, no ominous deep doorway. Warm ivory paper background filling the entire square. Sparse small paper flower/leaf/confetti accents; clean central composition with 12% safe margins and ample breathing room. Limit props to the specified scene. Express gentle companionship, never clinical efficacy or cure. NO LETTERS, NO WORDS, NO NUMERALS, NO WATERMARKS, NO UI screenshots. Scene: A lime trapezoid and lavender pentagon sit in two equal-sized chairs facing each other, one small blank speech bubble between them, no authority cues or medical uniforms.",
+    "file": "assets/scenes/18-先說一句就好.png",
+    "size": [
+      1254,
+      1254
+    ]
+  },
+  {
+    "id": "19",
+    "title": "把準備單帶走",
+    "use": "下載與保存",
+    "prompt": "Create one standalone square 1:1 web illustration, no text, matching the attached approved brand image. The reference provides STYLE and CHARACTER LANGUAGE only, do NOT reproduce its headline or poster layout. Characters' bodies ARE flat irregular angular geometric shapes, cute tiny violet dot eyes and small gentle smiles, short simple violet stick arms and feet. No separate human head or torso, no hair, no clothing except tiny optional bags. Slight softened cut-paper corners, not rounded blobs. Palette violet #6544c4, lime #dff685, dusty pink #f2b5d2, lavender and warm ivory #faf5e8. Handmade cut-paper silhouettes, restrained visible ink grain, sparse halftone, slightly imperfect edges. Flat evenly lit artwork, absolutely no cast shadows, no gradients, no glossy rendering, no ominous deep doorway. Warm ivory paper background filling the entire square. Sparse small paper flower/leaf/confetti accents; clean central composition with 12% safe margins and ample breathing room. Limit props to the specified scene. Express gentle companionship, never clinical efficacy or cure. NO LETTERS, NO WORDS, NO NUMERALS, NO WATERMARKS, NO UI screenshots. Scene: A lavender parallelogram character places a blank folded note into a small lime envelope while a pink triangle companion holds a folder, happy gentle expressions.",
+    "file": "assets/scenes/19-把準備單帶走.png",
+    "size": [
+      1254,
+      1254
+    ]
+  },
+  {
+    "id": "20",
+    "title": "談完照顧自己",
+    "use": "會談後與結尾",
+    "prompt": "Create one standalone square 1:1 web illustration, no text, matching the attached approved brand image. The reference provides STYLE and CHARACTER LANGUAGE only, do NOT reproduce its headline or poster layout. Characters' bodies ARE flat irregular angular geometric shapes, cute tiny violet dot eyes and small gentle smiles, short simple violet stick arms and feet. No separate human head or torso, no hair, no clothing except tiny optional bags. Slight softened cut-paper corners, not rounded blobs. Palette violet #6544c4, lime #dff685, dusty pink #f2b5d2, lavender and warm ivory #faf5e8. Handmade cut-paper silhouettes, restrained visible ink grain, sparse halftone, slightly imperfect edges. Flat evenly lit artwork, absolutely no cast shadows, no gradients, no glossy rendering, no ominous deep doorway. Warm ivory paper background filling the entire square. Sparse small paper flower/leaf/confetti accents; clean central composition with 12% safe margins and ample breathing room. Limit props to the specified scene. Express gentle companionship, never clinical efficacy or cure. NO LETTERS, NO WORDS, NO NUMERALS, NO WATERMARKS, NO UI screenshots. Scene: A lime irregular pentagon and pink square character sit at a small ivory table with warm cups beside a lavender paper-leaf plant, calm after a conversation.",
+    "file": "assets/scenes/20-談完照顧自己.png",
+    "size": [
+      1254,
+      1254
+    ]
+  }
+]
